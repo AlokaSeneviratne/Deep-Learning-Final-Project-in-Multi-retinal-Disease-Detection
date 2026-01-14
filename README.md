@@ -1,0 +1,2 @@
+# Deep-Learning-Final-Project-in-Multi-retinal-Disease-Detection
+In medical imaging, obtaining large-scale, labeled datasets is often challenging due to privacy concerns, high annotation costs, and limited availability of expert knowledge. To effectively learn and boost performance on small-scale datasets, we leverage transfer learning techniques which consist of models that are trained on large amounts of data.
